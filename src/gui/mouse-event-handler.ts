@@ -81,7 +81,7 @@ export interface Position {
 // so we do not need to have it as variables
 const enum Delay {
 	ResetClick = 500,
-	LongTap = 240,
+	LongTap = 1,
 	PreventFiresTouchEvents= 500,
 }
 
